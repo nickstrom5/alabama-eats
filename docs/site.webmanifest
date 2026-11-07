@@ -1,0 +1,21 @@
+{
+  "name": "Alabama Eats",
+  "short_name": "AL Eats",
+  "description": "White sauce, meat-and-threes & Gulf oysters: a guide to 10,274 Alabama restaurants.",
+  "start_url": "/alabama-eats/",
+  "display": "browser",
+  "background_color": "#f6f1e6",
+  "theme_color": "#2e5e3e",
+  "icons": [
+    {
+      "src": "/alabama-eats/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/alabama-eats/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

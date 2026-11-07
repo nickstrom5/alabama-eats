@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "version": "2026-11-06.1",
+ "records_through": "2026-11-06",
+ "published": "2026-11-06T18:22:55Z",
+ "min_app_build": 1,
+ "files": {
+  "detail-alabama": {
+   "path": "detail-alabama-191b6d15444b.json",
+   "sha256": "191b6d15444b6fe4b4cdb2d32272b3fc1f7a39c846bcac5deee41d5e630927e6",
+   "bytes": 1070392,
+   "rows": 10612
+  },
+  "places": {
+   "path": "places-1ffa15442c7d.json",
+   "sha256": "1ffa15442c7da8b05da3e954483b35f53c654f1748b17787b3ddaf61eeaab8c7",
+   "bytes": 1789311,
+   "rows": 10797
+  }
+ },
+ "counts": {
+  "places": 10797,
+  "files": 2,
+  "bytes": 2859703,
+  "restaurants": 10274
+ }
+}

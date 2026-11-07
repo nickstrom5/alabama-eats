@@ -1,0 +1,356 @@
+{
+ "generated": "2026-11-06",
+ "domain": "https://nickstrom5.github.io/alabama-eats",
+ "restaurants": 10274,
+ "places_incl_hidden": 10797,
+ "towns": 389,
+ "counties": 67,
+ "on_an_official_list": 2039,
+ "hand_checked_on_a_guide": 51,
+ "serves_alcohol_state_license": 0,
+ "guide_bbq": 9,
+ "guide_meat3": 7,
+ "guide_oysters": 12,
+ "guide_catfish": 19,
+ "guide_greek": 4,
+ "oldest": 5,
+ "honors": 23,
+ "michelin": {
+  "MICHELIN Recommended": 12,
+  "Bib Gourmand": 5
+ },
+ "james_beard": 12,
+ "americas_classics": 1,
+ "permits_updated": "2026-11-02",
+ "city_pages": {
+  "Birmingham": {
+   "restaurants": 886,
+   "listed": 20,
+   "bbq": 0,
+   "meat3": 5,
+   "oysters": 2,
+   "catfish": 2,
+   "greek": 1,
+   "hon": 12,
+   "oldest": 0
+  },
+  "Mobile": {
+   "restaurants": 639,
+   "listed": 9,
+   "bbq": 2,
+   "meat3": 0,
+   "oysters": 2,
+   "catfish": 2,
+   "greek": 0,
+   "hon": 3,
+   "oldest": 1
+  },
+  "Orange Beach": {
+   "restaurants": 93,
+   "listed": 4,
+   "bbq": 0,
+   "meat3": 0,
+   "oysters": 4,
+   "catfish": 0,
+   "greek": 0,
+   "hon": 0,
+   "oldest": 0
+  }
+ },
+ "cities_without_a_page": {
+  "Gulf Shores": 3,
+  "Huntsville": 2,
+  "Montgomery": 1,
+  "Homewood": 2,
+  "Mountain Brook": 2,
+  "Bessemer": 2,
+  "Tuscaloosa": 1,
+  "Decatur": 1,
+  "Auburn": 2,
+  "Madison": 2,
+  "Anniston": 2
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/al_shapes.json": {
+   "raw": 72442,
+   "gzip": 15853
+  },
+  "data/core.json": {
+   "raw": 780039,
+   "gzip": 173474
+  },
+  "data/detail-autauga-county.json": {
+   "raw": 4115,
+   "gzip": 1269
+  },
+  "data/detail-baldwin-county.json": {
+   "raw": 42299,
+   "gzip": 10871
+  },
+  "data/detail-barbour-county.json": {
+   "raw": 2585,
+   "gzip": 834
+  },
+  "data/detail-bibb-county.json": {
+   "raw": 971,
+   "gzip": 384
+  },
+  "data/detail-blount-county.json": {
+   "raw": 3794,
+   "gzip": 1215
+  },
+  "data/detail-bullock-county.json": {
+   "raw": 459,
+   "gzip": 246
+  },
+  "data/detail-butler-county.json": {
+   "raw": 2264,
+   "gzip": 745
+  },
+  "data/detail-calhoun-county.json": {
+   "raw": 14674,
+   "gzip": 3954
+  },
+  "data/detail-chambers-county.json": {
+   "raw": 3618,
+   "gzip": 1148
+  },
+  "data/detail-cherokee-county.json": {
+   "raw": 2030,
+   "gzip": 701
+  },
+  "data/detail-chilton-county.json": {
+   "raw": 3601,
+   "gzip": 1091
+  },
+  "data/detail-choctaw-county.json": {
+   "raw": 871,
+   "gzip": 443
+  },
+  "data/detail-clarke-county.json": {
+   "raw": 2913,
+   "gzip": 877
+  },
+  "data/detail-clay-county.json": {
+   "raw": 607,
+   "gzip": 295
+  },
+  "data/detail-cleburne-county.json": {
+   "raw": 978,
+   "gzip": 409
+  },
+  "data/detail-coffee-county.json": {
+   "raw": 6265,
+   "gzip": 1828
+  },
+  "data/detail-colbert-county.json": {
+   "raw": 5981,
+   "gzip": 1699
+  },
+  "data/detail-conecuh-county.json": {
+   "raw": 1059,
+   "gzip": 488
+  },
+  "data/detail-coosa-county.json": {
+   "raw": 306,
+   "gzip": 177
+  },
+  "data/detail-covington-county.json": {
+   "raw": 4201,
+   "gzip": 1326
+  },
+  "data/detail-crenshaw-county.json": {
+   "raw": 1101,
+   "gzip": 418
+  },
+  "data/detail-cullman-county.json": {
+   "raw": 10284,
+   "gzip": 2833
+  },
+  "data/detail-dale-county.json": {
+   "raw": 4453,
+   "gzip": 1412
+  },
+  "data/detail-dallas-county.json": {
+   "raw": 2471,
+   "gzip": 806
+  },
+  "data/detail-dekalb-county.json": {
+   "raw": 6541,
+   "gzip": 1928
+  },
+  "data/detail-elmore-county.json": {
+   "raw": 11904,
+   "gzip": 3247
+  },
+  "data/detail-escambia-county.json": {
+   "raw": 4371,
+   "gzip": 1252
+  },
+  "data/detail-etowah-county.json": {
+   "raw": 11995,
+   "gzip": 3202
+  },
+  "data/detail-fayette-county.json": {
+   "raw": 1147,
+   "gzip": 427
+  },
+  "data/detail-franklin-county.json": {
+   "raw": 2791,
+   "gzip": 866
+  },
+  "data/detail-geneva-county.json": {
+   "raw": 1757,
+   "gzip": 612
+  },
+  "data/detail-greene-county.json": {
+   "raw": 139,
+   "gzip": 116
+  },
+  "data/detail-hale-county.json": {
+   "raw": 857,
+   "gzip": 365
+  },
+  "data/detail-henry-county.json": {
+   "raw": 1392,
+   "gzip": 501
+  },
+  "data/detail-houston-county.json": {
+   "raw": 17298,
+   "gzip": 4385
+  },
+  "data/detail-jackson-county.json": {
+   "raw": 4473,
+   "gzip": 1353
+  },
+  "data/detail-jefferson-county.json": {
+   "raw": 288280,
+   "gzip": 40861
+  },
+  "data/detail-lamar-county.json": {
+   "raw": 676,
+   "gzip": 296
+  },
+  "data/detail-lauderdale-county.json": {
+   "raw": 11953,
+   "gzip": 3266
+  },
+  "data/detail-lawrence-county.json": {
+   "raw": 2307,
+   "gzip": 714
+  },
+  "data/detail-lee-county.json": {
+   "raw": 23554,
+   "gzip": 6126
+  },
+  "data/detail-limestone-county.json": {
+   "raw": 8463,
+   "gzip": 2475
+  },
+  "data/detail-lowndes-county.json": {
+   "raw": 587,
+   "gzip": 280
+  },
+  "data/detail-macon-county.json": {
+   "raw": 895,
+   "gzip": 382
+  },
+  "data/detail-madison-county.json": {
+   "raw": 61018,
+   "gzip": 14794
+  },
+  "data/detail-marengo-county.json": {
+   "raw": 1938,
+   "gzip": 687
+  },
+  "data/detail-marion-county.json": {
+   "raw": 2551,
+   "gzip": 775
+  },
+  "data/detail-marshall-county.json": {
+   "raw": 12785,
+   "gzip": 3276
+  },
+  "data/detail-mobile-county.json": {
+   "raw": 52009,
+   "gzip": 12527
+  },
+  "data/detail-monroe-county.json": {
+   "raw": 1726,
+   "gzip": 587
+  },
+  "data/detail-montgomery-county.json": {
+   "raw": 94073,
+   "gzip": 9582
+  },
+  "data/detail-morgan-county.json": {
+   "raw": 14294,
+   "gzip": 3754
+  },
+  "data/detail-perry-county.json": {
+   "raw": 347,
+   "gzip": 171
+  },
+  "data/detail-pickens-county.json": {
+   "raw": 817,
+   "gzip": 330
+  },
+  "data/detail-pike-county.json": {
+   "raw": 4661,
+   "gzip": 1398
+  },
+  "data/detail-randolph-county.json": {
+   "raw": 1696,
+   "gzip": 613
+  },
+  "data/detail-russell-county.json": {
+   "raw": 6668,
+   "gzip": 1831
+  },
+  "data/detail-shelby-county.json": {
+   "raw": 26668,
+   "gzip": 6762
+  },
+  "data/detail-st-clair-county.json": {
+   "raw": 9270,
+   "gzip": 2558
+  },
+  "data/detail-sumter-county.json": {
+   "raw": 751,
+   "gzip": 337
+  },
+  "data/detail-talladega-county.json": {
+   "raw": 7546,
+   "gzip": 2184
+  },
+  "data/detail-tallapoosa-county.json": {
+   "raw": 4491,
+   "gzip": 1420
+  },
+  "data/detail-tuscaloosa-county.json": {
+   "raw": 27017,
+   "gzip": 6751
+  },
+  "data/detail-walker-county.json": {
+   "raw": 6507,
+   "gzip": 1730
+  },
+  "data/detail-washington-county.json": {
+   "raw": 651,
+   "gzip": 292
+  },
+  "data/detail-wilcox-county.json": {
+   "raw": 572,
+   "gzip": 283
+  },
+  "data/detail-winston-county.json": {
+   "raw": 1543,
+   "gzip": 548
+  },
+  "data/ids.json": {
+   "raw": 133590,
+   "gzip": 77647
+  }
+ }
+}
